@@ -1,10 +1,5 @@
 Nhóm 17:
-Thành viên:Hoàng Ngọc Thắng,
-
-
-Nguyễn Đình Bình,
-
-Nguyễn Đức Quý.
+Thành viên:Hoàng Ngọc Thắng,Nguyễn Đình Bình,Nguyễn Đức Quý.
 
 
 
