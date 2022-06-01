@@ -1,6 +1,12 @@
 Nhóm 17:
 Thành viên:Hoàng Ngọc Thắng,Nguyễn Đình Bình,Nguyễn Đức Quý.
+
+
+
 Mô tả dự án:website quản lí nhân sự
+
+
+
 Công cụ sử dụng:
 +Netbean IDE 
 +Apache Tomcat Server
@@ -15,6 +21,7 @@ Những chức năng chính :
 +Quản lý Lương
 +Quản lý Sinh Nhật
 +Quản lý ngày nghỉ
+
 ![image](https://user-images.githubusercontent.com/61647416/171404693-bb305e93-ef6b-45fc-95e8-9c77b7891c00.png)
 
 
@@ -22,6 +29,7 @@ Những chức năng chính :
 
  
 Chi tiết Phân chia công việc :
+
 Hoàng Ngọc Thắng:Quản lí cộng tác viên,quản lí nhân viên chính thức,quản lí kỉ niệm ngày vào,DB SQLServerS
 
 Nguyễn Đức Quý :jquery,xử lí đăng nhập thêm tài khoản,ảnh,DB SQL,bootstrap;
@@ -29,6 +37,8 @@ Nguyễn Đức Quý :jquery,xử lí đăng nhập thêm tài khoản,ảnh,DB 
 Nguyễn Đình Bình:Quản lí lương ,quản lí sinh nhật,quản lí ngày nghỉ,connect link Mysql Sql server.
 
 Tất cả  mọi người luôn hỗ trợ nhau và giúp đỡ nhau fixbug và cùng nhau lên kế hoạch phân tích thiết kế project,giao diện
+
+
 
 
 Demo
