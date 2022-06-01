@@ -12,6 +12,9 @@ Công cụ sử dụng:
 +Apache Tomcat Server
 +Mysql
 +Sql Server
+
+
+
 Những chức năng chính :
 +Đăng ký, đăng nhập,đăng xuất
 +Phân quyền
