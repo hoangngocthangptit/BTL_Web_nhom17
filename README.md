@@ -1,8 +1,7 @@
-# BTL_Web_nhom17
 Nhóm 17:
 Thành viên:Hoàng Ngọc Thắng,Nguyễn Đình Bình,Nguyễn Đức Quý.
 Mô tả dự án:website quản lí nhân sự
-,Công cụ sử dụng:
+Công cụ sử dụng:
 +Netbean IDE 
 +Apache Tomcat Server
 +Mysql
@@ -20,7 +19,7 @@ Những chức năng chính :
 
 
 
-
+ 
 Chi tiết Phân chia công việc :
 Hoàng Ngọc Thắng:Quản lí cộng tác viên,quản lí nhân viên chính thức,quản lí kỉ niệm ngày vào,DB SQLServerS
 
@@ -33,14 +32,14 @@ Tất cả  mọi người luôn hỗ trợ nhau và giúp đỡ nhau fixbug và
 
 Demo
 Trang giao diện ban đầu
-
+ 
 
 Trang đăng nhập
-
+ 
 
 
 Trang đăng ký
-
+ 
 
 
 
@@ -49,24 +48,24 @@ Trang đăng ký
 
 
 Quản lí cộng tác viên:bao gồm thông tin cộng tác viên,sửa xóa thông tin cộng tác và duyệt trở thành nhân viên chính thức
-
+ 
 
 Thêm nhân viên
 
-
+ 
 Quản lí nhân viên chính thức:tìm kiếm theo nhân viên,xóa,thông tin nhân viên họ tên,loại nhân viên,giới tính,địa chỉ,lương,salary_type,supervisor,PT_level…..Supervisor
-
+ 
 Quản lí kỉ niệm ngày vào làm: Hiểm thị thông tin nhân viên có kỉ niệm ngày làm trong 7 ngày tới
-
+ 
 
 
 
 Quản lý lương
+ 
 
+Quản lý Sinh nhật:Hiểm thị nhân viên có sinh nhật trong tuần tới 
 
-Quản lý Sinh nhật:Hiểm thị nhân viên có sinh nhật trong tuần tới
-
-Quản lý ngày nghỉ 
+Quản lý ngày nghỉ  
 
 
 
